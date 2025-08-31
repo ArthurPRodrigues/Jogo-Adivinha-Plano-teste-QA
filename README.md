@@ -1,6 +1,7 @@
-# Jogo-Adivinha + Plano de testes para Quality Assurance.
-Jogo adivinha do curso de Lógica de Programação usando Javascript e HTML 
+# Guessing Game + Quality Assurance Test Plan
+A guessing game from the Programming Logic course using Javascript and HTML.
 
+## Requirements
 ```
-Se faz necessário o uso de um editor de código, exemplo: VSCODE.
+The use of a code editor, for example, VSCODE, is required to view and edit the code.
 ```
